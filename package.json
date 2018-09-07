@@ -9,15 +9,18 @@
     "dev": "webpack-dev-server --open"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "Kamil Bęben <kamil.beben.94@gmail.com>",
+  "license": "MIT",
   "devDependencies": {
     "webpack": "^4.16.3",
     "webpack-cli": "^3.1.0",
-    "webpack-dev-server": "^3.1.5"
+    "webpack-dev-server": "^3.1.5",
+    "babel-core": "^6.26.0",
+    "babel-loader": "^7.1.4",
+    "babel-preset-env": "^1.6.1"
   },
   "dependencies": {
     "sockjs-client": "^1.1.5",
-    "stomp-websock  et-js": "^1.0.0"
+    "stomp-websocket-js": "^1.0.0"
   }
 }
