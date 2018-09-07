@@ -20,7 +20,6 @@
     "babel-preset-env": "^1.6.1"
   },
   "dependencies": {
-    "sockjs-client": "^1.1.5",
     "stomp-websocket-js": "^1.0.0"
   }
 }
